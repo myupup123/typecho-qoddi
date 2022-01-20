@@ -8,8 +8,10 @@
 
     "require": {
 
-        "alrik11es/cowsayphp": "^1.2"
-
+        "alrik11es/cowsayphp": "^1.2",
+        
+        "ext-mbstring": "*"
+        
     },
 
     "authors": [
