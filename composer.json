@@ -10,9 +10,11 @@
 
         "alrik11es/cowsayphp": "^1.2",
         
-        "ext-mbstring": "*"
-        
-    },
+         "ext-mbstring": "*"
+
+    }
+
+}
 
     "authors": [
 
