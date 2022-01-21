@@ -1,31 +1,13 @@
 {
-
-    "name": "qoddiapps/getting-started-with-php",
-
-    "description": "Sample PHP application for Qoddi",
-
-    "type": "project",
-
+    "name": "root/qoddi.cld666.cf",
+    "description": "l",
     "require": {
-
-        "alrik11es/cowsayphp": "^1.2",
-        
-         "ext-mbstring": "*"
-
-    }
-
-
-
+        "ext-mbstring": "^7.0"
+    },
     "authors": [
-
         {
-
-            "name": "Eric Dukovsnky",
-
-            "email": "support@qoddi.com"
-
+            "name": "John Smith",
+            "email": "john@example.com"
         }
-
     ]
-
 }
